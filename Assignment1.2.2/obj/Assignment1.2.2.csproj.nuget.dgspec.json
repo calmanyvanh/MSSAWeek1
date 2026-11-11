@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calma\\source\\repos\\Assignment1.2.2\\Assignment1.2.2.csproj": {}
+    "C:\\MSSA Assignments\\MSSAWeek1\\Assignment1.2.2\\Assignment1.2.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calma\\source\\repos\\Assignment1.2.2\\Assignment1.2.2.csproj": {
+    "C:\\MSSA Assignments\\MSSAWeek1\\Assignment1.2.2\\Assignment1.2.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calma\\source\\repos\\Assignment1.2.2\\Assignment1.2.2.csproj",
+        "projectUniqueName": "C:\\MSSA Assignments\\MSSAWeek1\\Assignment1.2.2\\Assignment1.2.2.csproj",
         "projectName": "Assignment1.2.2",
-        "projectPath": "C:\\Users\\calma\\source\\repos\\Assignment1.2.2\\Assignment1.2.2.csproj",
+        "projectPath": "C:\\MSSA Assignments\\MSSAWeek1\\Assignment1.2.2\\Assignment1.2.2.csproj",
         "packagesPath": "C:\\Users\\calma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calma\\source\\repos\\Assignment1.2.2\\obj\\",
+        "outputPath": "C:\\MSSA Assignments\\MSSAWeek1\\Assignment1.2.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
