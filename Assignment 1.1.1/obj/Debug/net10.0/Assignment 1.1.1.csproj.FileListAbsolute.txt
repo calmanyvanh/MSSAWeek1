@@ -1,0 +1,30 @@
+C:\Users\calma\source\repos\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.exe
+C:\Users\calma\source\repos\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.deps.json
+C:\Users\calma\source\repos\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.runtimeconfig.json
+C:\Users\calma\source\repos\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.dll
+C:\Users\calma\source\repos\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.pdb
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.AssemblyInfoInputs.cache
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.AssemblyInfo.cs
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.csproj.CoreCompileInputs.cache
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.dll
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\refint\Assignment 1.1.1.dll
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.pdb
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.genruntimeconfig.cache
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\ref\Assignment 1.1.1.dll
+C:\Users\calma\source\repos\Assignment 1.1.1\obj\Debug\net10.0\Assignme.26BB9C04.Up2Date
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.exe
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.deps.json
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.runtimeconfig.json
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.dll
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\bin\Debug\net10.0\Assignment 1.1.1.pdb
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.AssemblyInfoInputs.cache
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.AssemblyInfo.cs
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.csproj.CoreCompileInputs.cache
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.sourcelink.json
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.dll
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\refint\Assignment 1.1.1.dll
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.pdb
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\Assignment 1.1.1.genruntimeconfig.cache
+C:\MSSA Assignments\MSSAWeek1\Assignment 1.1.1\obj\Debug\net10.0\ref\Assignment 1.1.1.dll
