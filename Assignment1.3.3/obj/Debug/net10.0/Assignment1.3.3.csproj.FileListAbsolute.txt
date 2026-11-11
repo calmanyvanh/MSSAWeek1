@@ -13,3 +13,18 @@ C:\Users\calma\source\repos\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.pd
 C:\Users\calma\source\repos\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.genruntimeconfig.cache
 C:\Users\calma\source\repos\Assignment1.3.3\obj\Debug\net10.0\ref\Assignment1.3.3.dll
 C:\Users\calma\source\repos\Assignment1.3.3\obj\Debug\net10.0\Assignme.C425EAF9.Up2Date
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\bin\Debug\net10.0\Assignment1.3.3.exe
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\bin\Debug\net10.0\Assignment1.3.3.deps.json
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\bin\Debug\net10.0\Assignment1.3.3.runtimeconfig.json
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\bin\Debug\net10.0\Assignment1.3.3.dll
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\bin\Debug\net10.0\Assignment1.3.3.pdb
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.AssemblyInfoInputs.cache
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.AssemblyInfo.cs
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.csproj.CoreCompileInputs.cache
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.sourcelink.json
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.dll
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\refint\Assignment1.3.3.dll
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.pdb
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\Assignment1.3.3.genruntimeconfig.cache
+C:\MSSA Assignments\MSSAWeek1\Assignment1.3.3\obj\Debug\net10.0\ref\Assignment1.3.3.dll
